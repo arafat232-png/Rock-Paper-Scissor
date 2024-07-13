@@ -6,6 +6,7 @@ This is my first project. This is a game. This project is made by C language.
 
 
 int RPS(char player, char computer)
+
 {
 if(player==computer) // play draw
 return 0;
