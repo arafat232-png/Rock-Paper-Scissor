@@ -1,5 +1,6 @@
 # Rock-Paper-Scissor
-This is my first project. This is a game. This project is made by C language. 
+This is my first project.
+This is a game. This project is made by C language. 
 
 #include<stdio.h>
 
@@ -25,3 +26,7 @@ return 1;
 else if(player=='R' && computer=='P') //win computer
 return -1;
 }
+
+int mian()
+{
+
